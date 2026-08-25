@@ -1,22 +1,27 @@
-## Veera Tanish Doorsala
+<div align="center">
 
-**Mechanical Engineering · UT Austin**  
-Robotics · soft actuation · embedded control · mechatronics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314e,50:58a6ff,100:1f6feb&height=140&section=header&text=Veera%20Tanish%20Doorsala&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20%C2%B7%20UT%20Austin&descSize=18&descAlignY=62&descAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=soft+robotics+%C2%B7+embedded+control+%C2%B7+mechatronics;sketch+%E2%86%92+CAD+%E2%86%92+firmware+%E2%86%92+it+moves;building+systems+that+move+on+their+own" alt="Typing intro"/>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanish--doorsala.github.io-161b22?style=flat-square&logo=googlechrome&logoColor=e6edf3)](https://tanish-doorsala.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-veera--tanish--doorsala-161b22?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/veera-tanish-doorsala/)
 [![Email](https://img.shields.io/badge/Email-veeratanish.doorsala@utexas.edu-161b22?style=flat-square&logo=gmail&logoColor=e6edf3)](mailto:veeratanish.doorsala@utexas.edu)
 
+</div>
+
 ---
 
-Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed-loop motor control, and motion-capture pipelines from CAD through ROS 2. The through-line is systems that move on their own once you design and wire them up.
+Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed-loop motor control, and embedded systems from CAD through ROS 2. The through-line is systems that move on their own once you design and wire them up.
 
 **Now**
 
-- **MERGe Lab**: HSA gripper platforms, PID control, OptiTrack · *Prof. Lillian Chin*
+- **MERGe Lab**: HSA gripper platforms, PID control, parametric actuator geometry · *Prof. Lillian Chin*
 - **Longhorn Baja Racing**: ESP32 + LoRa (RFM95W) telemetry and live dashboard
 - **UT Austin EcoCAR**: LiDAR point cloud processing for autonomous perception
-- **DUM-E**: 4-axis ROS 2 arm with MoveIt and IK · [repo](https://github.com/tanish-doorsala/DUM-E)
+- **DUM-E**: 4-axis ROS 2 arm with MoveIt and inverse kinematics (in progress)
 
 ---
 
@@ -24,7 +29,6 @@ Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed
 
 | Project | What it is |
 | :--- | :--- |
-| [**DUM-E**](https://github.com/tanish-doorsala/DUM-E) | 4-axis arm · NEMA-17 base · MoveIt · custom ROS 2 packages |
 | [**concentric-tube-robot**](https://github.com/tanish-doorsala/concentric-tube-robot) | Python simulation for soft robotics research |
 | [**Motor-Commander**](https://github.com/tanish-doorsala/Motor-Commander) | C++ stepper PWM control for embedded motor drivers |
 | [**Unreal-Simulink Co-simulation**](https://github.com/tanish-doorsala/Unreal-Simulink-Co-simulation) | MATLAB/Simulink ↔ Unreal Engine sensor validation |
@@ -36,6 +40,7 @@ Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed
 | :--- | :--- |
 | NRG Lab · closed-loop extrusion | OpenCV + ROS 2 + CAN · ±0.2 mm extrusion accuracy |
 | MERGe · concentric push-pull robot | Soft robotics controls, in development |
+| DUM-E | 4-axis arm · NEMA-17 base · MoveIt · custom ROS 2 packages |
 | Makeathon · classroom assist | ESP32 SAP, breadboard circuit, web UI |
 | F1 car (UT Austin) | SolidWorks, 3D print, laser-cut chassis · top obstacle course |
 | GripTide | Surf grip pad CAD + Java sizing app |
@@ -47,7 +52,7 @@ Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed
 
 ### Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -70,15 +75,19 @@ Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub stats" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" alt="Top languages" height="160">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=tanish-doorsala&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58" alt="GitHub streak">
 </p>
 
 ---
 
+<div align="center">
+
 *Open to internships in robotics, mechatronics, and autonomous systems.*
+
+</div>
