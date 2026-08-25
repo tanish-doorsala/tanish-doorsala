@@ -76,8 +76,8 @@ Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0ede8&icon_color=c0200a&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0ede8&text_color=8b949e&langs_count=6" alt="Top languages" height="160">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0ede8&icon_color=c0200a&text_color=8b949e&include_all_commits=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0ede8&text_color=8b949e&langs_count=6" alt="Top languages" height="160">
 </p>
 
 <p align="center">
