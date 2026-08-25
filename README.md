@@ -1,166 +1,65 @@
-<div align="center">
+## Veera Tanish Doorsala
 
-```text
-      ┌──┐     ┌──┐                    tanish_doorsala :: v2026.1
-      │░░│     │░░│                    ─────────────────────────
-      │░░│     │░░│   HSA gripper       domain:  mechatronics
-      └──┘     └──┘   (auxetic)          stack:   ROS 2 · C++ · Python
-         ╲     ╱                         school:  UT Austin · Mech-E
-          ╲   ╱
-           ╲ ╱  ← wrist / J4
-            │
-           ╱ ╲
-          ╱   ╲  ← J3 · servo
-         ╱     ╲
-        │       │
-       ╱         ╲  ← J2
-      ╱           ╲
-     │      ●      │  ← J1 · NEMA-17
-    ┌┴─────────────┴┐
-    │ ▓▓▓ BASE ▓▓▓  │
-    └───────────────┘
-         ═══════
-    // sketch → CAD → firmware → it moves
-```
+**Mechanical Engineering · UT Austin**  
+Robotics · soft actuation · embedded control · mechatronics
 
-[![Portfolio](https://img.shields.io/badge/portfolio-tanish--doorsala.github.io-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://tanish-doorsala.github.io)
-[![LinkedIn](https://img.shields.io/badge/linkedin-veera--tanish--doorsala-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/veera-tanish-doorsala/)
-[![Email](https://img.shields.io/badge/email-veeratanish.doorsala@utexas.edu-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:veeratanish.doorsala@utexas.edu)
-
-</div>
-
-```text
-  CONTROL_LOOP :: MECH + EMBEDDED + VISION
-  ==========================================
-  closed-loop feedback ------------------------------------+
-                                                            |
-  +--------+   +--------+   +--------+   +--------+   +--------+
-  |  CAD   |---|  FAB   |---|  MCU   |---| ROS 2  |---| VISION |
-  |SolidWks|   |print/cut|  |ESP32/CAN|  |nodes/IK|   |CV/LiDAR|
-  +--------+   +--------+   +---+----+   +--------+   +---+----+
-                                  |                        |
-                                  +------------+-----------+
-                                               |
-                                          +----------+
-                                          | ACTUATOR |
-                                          |HSA/steppr|
-                                          +----------+
-```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanish-doorsala/tanish-doorsala/master/assets/control-loop.svg" alt="Mechatronics control loop schematic" width="720">
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanish--doorsala.github.io-161b22?style=flat-square&logo=googlechrome&logoColor=e6edf3)](https://tanish-doorsala.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-veera--tanish--doorsala-161b22?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/veera-tanish-doorsala/)
+[![Email](https://img.shields.io/badge/Email-veeratanish.doorsala@utexas.edu-161b22?style=flat-square&logo=gmail&logoColor=e6edf3)](mailto:veeratanish.doorsala@utexas.edu)
 
 ---
 
-### `> cat about.txt`
+Undergraduate researcher at **MERGe Lab** — I build soft robotic grippers, closed-loop motor control, and motion-capture pipelines from CAD through ROS 2. The through-line is systems that move on their own once you design and wire them up.
 
-```python
-class Engineer:
-    """Veera Tanish Doorsala — robotics from CAD to closed-loop control."""
+**Now**
 
-    name       = "Veera Tanish Doorsala"
-    school     = "UT Austin · Cockrell School of Engineering"
-    degree     = "B.S. Mechanical Engineering"
-    focus      = ["soft robotics", "embedded control", "computer vision", "real-time systems"]
-
-    def __init__(self):
-        self.motivation = (
-            "Sketch something, wire it up, watch it move on its own — "
-            "no manual input, just a system doing exactly what you designed."
-        )
-
-    def currently_running(self) -> list[str]:
-        return [
-            "MERGe Lab      → HSA grippers, PID, OptiTrack  [Prof. Lillian Chin]",
-            "Longhorn Baja  → ESP32 + LoRa telemetry pipeline",
-            "UT Austin EcoCAR → LiDAR point cloud perception",
-            "DUM-E          → 4-axis ROS 2 arm · MoveIt · IK from scratch",
-        ]
-```
+- **MERGe Lab** — HSA gripper platforms, PID control, OptiTrack · *Prof. Lillian Chin*
+- **Longhorn Baja Racing** — ESP32 + LoRa (RFM95W) telemetry and live dashboard
+- **UT Austin EcoCAR** — LiDAR point cloud processing for autonomous perception
+- **DUM-E** — 4-axis ROS 2 arm with MoveIt and IK · [repo](https://github.com/tanish-doorsala/DUM-E)
 
 ---
 
-### `> ls ~/lab/`
+### Selected work
 
-| path | module | status |
-| :--- | :--- | :---: |
-| `merge_lab/hsa_gripper/` | SolidWorks · Grasshopper · PID · Arduino–ROS 2 · OptiTrack (~1% validation) | `ACTIVE` |
-| `merge_lab/concentric_push_pull/` | Soft robotics controls · concentric tube platform | `ACTIVE` |
-| `nrg_lab/closed_loop_extrusion/` | OpenCV · ROS 2 · CAN · ±0.2 mm extrusion accuracy | `SHIPPED` |
-| `personal/DUM-E/` | 4-axis arm · NEMA-17 · MoveIt · 3 failed prints before base worked | `BUILD` |
-| `ecocar/lidar_stack/` | Point clouds · PCL · Unreal + Simulink co-sim | `ACTIVE` |
-| `baja/lora_telemetry/` | ESP32 · RFM95W · 915 MHz · live dashboard | `ACTIVE` |
+| Project | What it is |
+| :--- | :--- |
+| [**DUM-E**](https://github.com/tanish-doorsala/DUM-E) | 4-axis arm · NEMA-17 base · MoveIt · custom ROS 2 packages |
+| [**concentric-tube-robot**](https://github.com/tanish-doorsala/concentric-tube-robot) | Python simulation for soft robotics research |
+| [**Motor-Commander**](https://github.com/tanish-doorsala/Motor-Commander) | C++ stepper PWM control for embedded motor drivers |
+| [**Unreal–Simulink Co-simulation**](https://github.com/tanish-doorsala/Unreal-Simulink-Co-simulation) | MATLAB/Simulink ↔ Unreal Engine sensor validation |
 
 <details>
-<summary><code>> ls ~/archive/</code> · older builds</summary>
+<summary>More projects</summary>
 
-| path | stack |
+| Project | Notes |
 | :--- | :--- |
-| `makeathon/classroom_assist/` | ESP32 SAP · breadboard · web UI |
-| `utsa/laser_spectroscopy/` | chemical propulsion research · Dr. Pineda |
-| `personal/GripTide/` | surf grip pad CAD + Java sizing app |
-| `personal/CalcApp/` | Gemini API · webcam OCR · real-time math solver |
-| `ut_austin/f1_car/` | SolidWorks · laser-cut chassis · top obstacle course |
+| NRG Lab · closed-loop extrusion | OpenCV + ROS 2 + CAN · ±0.2 mm extrusion accuracy |
+| MERGe · concentric push-pull robot | Soft robotics controls, in development |
+| Makeathon · classroom assist | ESP32 SAP, breadboard circuit, web UI |
+| F1 car (UT Austin) | SolidWorks, 3D print, laser-cut chassis · top obstacle course |
+| GripTide | Surf grip pad CAD + Java sizing app |
+| CalcApp | Gemini API + webcam OCR for handwritten math |
 
 </details>
 
 ---
 
-### `> git log --oneline --repos`
+### Stack
 
-| repo | stack | link |
-| :--- | :--- | :--- |
-| `DUM-E` | ROS 2 · MoveIt · 4-axis arm | [github.com/tanish-doorsala/DUM-E](https://github.com/tanish-doorsala/DUM-E) |
-| `concentric-tube-robot` | Python · soft robotics | [github.com/tanish-doorsala/concentric-tube-robot](https://github.com/tanish-doorsala/concentric-tube-robot) |
-| `Motor-Commander` | C++ · stepper PWM control | [github.com/tanish-doorsala/Motor-Commander](https://github.com/tanish-doorsala/Motor-Commander) |
-| `Unreal-Simulink` | MATLAB · Unreal Engine co-simulation | [github.com/tanish-doorsala/Unreal-Simulink-Co-simulation](https://github.com/tanish-doorsala/Unreal-Simulink-Co-simulation) |
+`ROS 2` `Python` `C++` `OpenCV` `MoveIt` `SolidWorks` `Grasshopper / Rhino` `Arduino` `ESP32` `LiDAR` `OptiTrack` `MATLAB / Simulink` `CAN` `3D printing`
 
 ---
 
-### `> cat stack.toml`
-
-```toml
-[programming]
-languages = ["Python", "C++", "Java"]
-frameworks = ["ROS 2", "MoveIt", "OpenCV"]
-
-[hardware]
-mcu       = ["Arduino", "ESP32", "Raspberry Pi"]
-buses     = ["CAN", "SPI", "I2C"]
-fab       = ["SolidWorks", "Grasshopper/Rhino", "3D printing", "laser cutting"]
-
-[systems]
-perception = ["LiDAR", "Point Cloud Library", "Computer Vision"]
-validation = ["OptiTrack / Motive", "MATLAB/Simulink", "Unreal Engine"]
-control    = ["PID", "closed-loop extrusion", "inverse kinematics"]
-```
-
----
-
-### `> telemetry --private`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="langs" height="150">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" alt="Top languages" height="160">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanish-doorsala&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58" alt="streak">
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=tanish-doorsala&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58" alt="GitHub streak">
 </p>
 
 ---
 
-<div align="center">
-
-```text
-// open to internships · research · robotics · mechatronics · autonomous systems
-// portfolio → https://tanish-doorsala.github.io
-```
-
-```diff
-+ status: accepting connections
-+ reply_to: veeratanish.doorsala@utexas.edu
-```
-
-</div>
+*Open to internships in robotics, mechatronics, and autonomous systems.*
