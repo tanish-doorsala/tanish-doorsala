@@ -1,17 +1,50 @@
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="200">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:3d0a0a&height=155&section=header&text=Veera%20Tanish%20Doorsala&fontSize=44&fontColor=f0ede8&animation=twinkling&desc=Mechanical%20Engineering%20%C2%B7%20UT%20Austin&descSize=17&descAlignY=58&descAlign=50&stroke=c0200a&strokeWidth=2"/>
+<pre>
+%+*#+====+-++**+*%*--=
+#%*++++=+%%#%******+-:
+++%==+**#@@@@%=****%%*
+==%%=+*@@@*#@@-=+%%%**
+%*+%*==##+-=+@+=+**=+=
+*+%*++=++:-:=**%+%****
+%+%%*+=+==-=+=%**%%+++
+%*+%*===%*+**+=*****%*
++**%*=-=%%++*%+*+#@%*#
++=+**==+*%*+%**++*##--
+++===++++#*=#+++++%#%=
+%*++-*+++*=:++++*****%
+*+++:**++*=.+++******%
+#+=::%*%+*+:++**%***%#
+%%.:=#*%**=-****%****#
++*::+#%%%*==%***#*+***
++%##@@#%%***%**%#%**%%
+:%@@@@@##*%%%**%#%**@#
+</pre>
 
-<p><sub><strong>soft robotics</strong> · <strong>embedded control</strong> · <strong>mechatronics</strong></sub></p>
+</td>
+<td valign="middle">
+
+<h2>Veera Tanish Doorsala</h2>
+<p>
+  <strong>B.S. Mechanical Engineering</strong><br/>
+  The University of Texas at Austin
+</p>
+<p>
+  <em>soft robotics · embedded control · mechatronics</em>
+</p>
 <p><code>sketch → CAD → firmware → it moves</code></p>
 
-<br/>
+</td>
+</tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanish--doorsala.github.io-c0200a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanish-doorsala.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-veera--tanish--doorsala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veera-tanish-doorsala/)
-[![Email](https://img.shields.io/badge/Email-veeratanish.doorsala@utexas.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veeratanish.doorsala@utexas.edu)
-
-</div>
+<p align="left">
+  <a href="https://tanish-doorsala.github.io"><img src="https://img.shields.io/badge/Portfolio-tanish--doorsala.github.io-c0200a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/veera-tanish-doorsala/"><img src="https://img.shields.io/badge/LinkedIn-veera--tanish--doorsala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:veeratanish.doorsala@utexas.edu"><img src="https://img.shields.io/badge/Email-veeratanish.doorsala@utexas.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
