@@ -9,14 +9,14 @@ Robotics · soft actuation · embedded control · mechatronics
 
 ---
 
-Undergraduate researcher at **MERGe Lab** — I build soft robotic grippers, closed-loop motor control, and motion-capture pipelines from CAD through ROS 2. The through-line is systems that move on their own once you design and wire them up.
+Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed-loop motor control, and motion-capture pipelines from CAD through ROS 2. The through-line is systems that move on their own once you design and wire them up.
 
 **Now**
 
-- **MERGe Lab** — HSA gripper platforms, PID control, OptiTrack · *Prof. Lillian Chin*
-- **Longhorn Baja Racing** — ESP32 + LoRa (RFM95W) telemetry and live dashboard
-- **UT Austin EcoCAR** — LiDAR point cloud processing for autonomous perception
-- **DUM-E** — 4-axis ROS 2 arm with MoveIt and IK · [repo](https://github.com/tanish-doorsala/DUM-E)
+- **MERGe Lab**: HSA gripper platforms, PID control, OptiTrack · *Prof. Lillian Chin*
+- **Longhorn Baja Racing**: ESP32 + LoRa (RFM95W) telemetry and live dashboard
+- **UT Austin EcoCAR**: LiDAR point cloud processing for autonomous perception
+- **DUM-E**: 4-axis ROS 2 arm with MoveIt and IK · [repo](https://github.com/tanish-doorsala/DUM-E)
 
 ---
 
@@ -27,7 +27,7 @@ Undergraduate researcher at **MERGe Lab** — I build soft robotic grippers, clo
 | [**DUM-E**](https://github.com/tanish-doorsala/DUM-E) | 4-axis arm · NEMA-17 base · MoveIt · custom ROS 2 packages |
 | [**concentric-tube-robot**](https://github.com/tanish-doorsala/concentric-tube-robot) | Python simulation for soft robotics research |
 | [**Motor-Commander**](https://github.com/tanish-doorsala/Motor-Commander) | C++ stepper PWM control for embedded motor drivers |
-| [**Unreal–Simulink Co-simulation**](https://github.com/tanish-doorsala/Unreal-Simulink-Co-simulation) | MATLAB/Simulink ↔ Unreal Engine sensor validation |
+| [**Unreal-Simulink Co-simulation**](https://github.com/tanish-doorsala/Unreal-Simulink-Co-simulation) | MATLAB/Simulink ↔ Unreal Engine sensor validation |
 
 <details>
 <summary>More projects</summary>
@@ -47,7 +47,26 @@ Undergraduate researcher at **MERGe Lab** — I build soft robotic grippers, clo
 
 ### Stack
 
-`ROS 2` `Python` `C++` `OpenCV` `MoveIt` `SolidWorks` `Grasshopper / Rhino` `Arduino` `ESP32` `LiDAR` `OptiTrack` `MATLAB / Simulink` `CAN` `3D printing`
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/MoveIt-512BD4?style=for-the-badge&logo=robotframework&logoColor=white" alt="MoveIt">
+  <img src="https://img.shields.io/badge/SolidWorks-D71720?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/Grasshopper-7B1FA2?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Grasshopper">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/LiDAR-0EA5E9?style=for-the-badge&logo=target&logoColor=white" alt="LiDAR">
+  <img src="https://img.shields.io/badge/MATLAB-A07653?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=matlab&logoColor=white" alt="Simulink">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/CAN_Bus-0078D4?style=for-the-badge&logo=car&logoColor=white" alt="CAN Bus">
+  <img src="https://img.shields.io/badge/3D_Printing-FF6B35?style=for-the-badge&logo=thingiverse&logoColor=white" alt="3D Printing">
+</p>
 
 ---
 
