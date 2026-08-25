@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:3d0a0a&height=155&section=header&text=Veera%20Tanish%20Doorsala&fontSize=44&fontColor=f0ede8&animation=twinkling&desc=Mechanical%20Engineering%20%C2%B7%20UT%20Austin&descSize=17&descAlignY=58&descAlign=50&stroke=c0200a&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:3d0a0a&height=120&section=header&text=Veera%20Tanish%20Doorsala&fontSize=36&fontColor=f0ede8&animation=twinkling&stroke=c0200a&strokeWidth=2"/>
 
+<p><strong>Mechanical Engineering · UT Austin</strong></p>
 <p><sub><strong>soft robotics</strong> · <strong>embedded control</strong> · <strong>mechatronics</strong></sub></p>
 <p><code>sketch → CAD → firmware → it moves</code></p>
 
