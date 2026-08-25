@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22314e,50:58a6ff,100:1f6feb&height=140&section=header&text=Veera%20Tanish%20Doorsala&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20%C2%B7%20UT%20Austin&descSize=18&descAlignY=62&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:3d0a0a&height=155&section=header&text=Veera%20Tanish%20Doorsala&fontSize=44&fontColor=f0ede8&animation=twinkling&desc=Mechanical%20Engineering%20%C2%B7%20UT%20Austin&descSize=17&descAlignY=58&descAlign=50&stroke=c0200a&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=70&lines=soft+robotics+%C2%B7+embedded+control+%C2%B7+mechatronics;sketch+%E2%86%92+CAD+%E2%86%92+firmware+%E2%86%92+it+moves;building+systems+that+move+on+their+own" alt="Typing intro"/>
+<p><sub><strong>soft robotics</strong> · <strong>embedded control</strong> · <strong>mechatronics</strong></sub></p>
+<p><code>sketch → CAD → firmware → it moves</code></p>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanish--doorsala.github.io-161b22?style=flat-square&logo=googlechrome&logoColor=e6edf3)](https://tanish-doorsala.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-veera--tanish--doorsala-161b22?style=flat-square&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/veera-tanish-doorsala/)
-[![Email](https://img.shields.io/badge/Email-veeratanish.doorsala@utexas.edu-161b22?style=flat-square&logo=gmail&logoColor=e6edf3)](mailto:veeratanish.doorsala@utexas.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanish--doorsala.github.io-c0200a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanish-doorsala.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-veera--tanish--doorsala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veera-tanish-doorsala/)
+[![Email](https://img.shields.io/badge/Email-veeratanish.doorsala@utexas.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veeratanish.doorsala@utexas.edu)
 
 </div>
 
@@ -76,12 +77,12 @@ Undergraduate researcher at **MERGe Lab**. I build soft robotic grippers, closed
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" alt="Top languages" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0ede8&icon_color=c0200a&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0ede8&text_color=8b949e&langs_count=6" alt="Top languages" height="160">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanish-doorsala&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=tanish-doorsala&theme=dark&hide_border=true&background=0d1117&ring=c0200a&fire=c0200a&currStreakLabel=f0ede8&sideLabels=8b949e&dates=484f58" alt="GitHub streak">
 </p>
 
 ---
