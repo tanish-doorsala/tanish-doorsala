@@ -29,8 +29,26 @@
 
 </div>
 
+```text
+  CONTROL_LOOP :: MECH + EMBEDDED + VISION
+  ==========================================
+  closed-loop feedback ------------------------------------+
+                                                            |
+  +--------+   +--------+   +--------+   +--------+   +--------+
+  |  CAD   |---|  FAB   |---|  MCU   |---| ROS 2  |---| VISION |
+  |SolidWks|   |print/cut|  |ESP32/CAN|  |nodes/IK|   |CV/LiDAR|
+  +--------+   +--------+   +---+----+   +--------+   +---+----+
+                                  |                        |
+                                  +------------+-----------+
+                                               |
+                                          +----------+
+                                          | ACTUATOR |
+                                          |HSA/steppr|
+                                          +----------+
+```
+
 <p align="center">
-  <img src="./assets/control-loop.svg" alt="Mechatronics control loop schematic — CAD to actuator with closed-loop feedback" width="100%">
+  <img src="https://raw.githubusercontent.com/tanish-doorsala/tanish-doorsala/master/assets/control-loop.svg" alt="Mechatronics control loop schematic" width="720">
 </p>
 
 ---
@@ -91,12 +109,12 @@ class Engineer:
 
 ### `> git log --oneline --repos`
 
-```text
-DUM-E                  ROS 2 · MoveIt · 4-axis arm              → github.com/tanish-doorsala/DUM-E
-concentric-tube-robot  Python · soft robotics                   → github.com/tanish-doorsala/concentric-tube-robot
-Motor-Commander        C++ · stepper PWM control                → github.com/tanish-doorsala/Motor-Commander
-Unreal-Simulink        MATLAB · Unreal Engine co-simulation     → github.com/tanish-doorsala/Unreal-Simulink-Co-simulation
-```
+| repo | stack | link |
+| :--- | :--- | :--- |
+| `DUM-E` | ROS 2 · MoveIt · 4-axis arm | [github.com/tanish-doorsala/DUM-E](https://github.com/tanish-doorsala/DUM-E) |
+| `concentric-tube-robot` | Python · soft robotics | [github.com/tanish-doorsala/concentric-tube-robot](https://github.com/tanish-doorsala/concentric-tube-robot) |
+| `Motor-Commander` | C++ · stepper PWM control | [github.com/tanish-doorsala/Motor-Commander](https://github.com/tanish-doorsala/Motor-Commander) |
+| `Unreal-Simulink` | MATLAB · Unreal Engine co-simulation | [github.com/tanish-doorsala/Unreal-Simulink-Co-simulation](https://github.com/tanish-doorsala/Unreal-Simulink-Co-simulation) |
 
 ---
 
@@ -123,12 +141,12 @@ control    = ["PID", "closed-loop extrusion", "inverse kinematics"]
 ### `> telemetry --private`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="langs" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish-doorsala&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish-doorsala&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="langs" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-doorsala&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58" alt="streak">
+  <img src="https://streak-stats.demolab.com/?user=tanish-doorsala&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=484f58" alt="streak">
 </p>
 
 ---
